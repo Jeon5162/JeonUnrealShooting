@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMaterial/MAT_PBR.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMaterial/MI_PBR.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMap/JeonShootingLevel.umap",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonBP/BP_JeonShootingGameMode.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonBP/BP_JeonPlayer.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMAT/MAT_JeonPlayer.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMAT/MAT_JeonMAT.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMAT/MI_JeonBullet.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMAT/MI_JeonEnemy.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMAT/MI_JeonPlayer.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/StarterContent/Shapes/Shape_Cube.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonBP/BP_JeonPawn.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/qwe.uasset",
+				"C:/0. JeonUEproject/MTVS_UETA_240627/Content/JeonFolder/JeonMaterial/MAT_Class.uasset"
+			]
+		}
+	]
+}
